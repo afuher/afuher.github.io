@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Hi, I’m Arich
+    text: With expertise in data science and machine learning, I'm dedicated to providing impactful data solutions that solve your business challenges and reach your goals
     button: Tell Me More
     buttonlink: "#services"
 

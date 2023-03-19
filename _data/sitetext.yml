@@ -41,35 +41,35 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Tools and Capabilities"
+    text: "Capabilities to Leverage Your Data Into Insights"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - year: "Languages"
+        title: "Python, SQL, Matlab, R"
+        desc: "If data is the fuel and I am a driver, then these languages are the car I use to get around the track. All data science problems can be solved using some combination of the above. Let’s discuss how we can put these to work on your project."
+        image: assets/img/timeline/Languages2.jpg
+        alt: 
+      - year: "Data Visualization"
+        title: "Tableau and Power BI"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/DataVis2.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - year: "Data Pipelines and Cleaning"
+        title: 
+        desc: "Fetching data using APIs, scraping websites, and more can be done automatically. Once all the data is wrangled, automatic transformations and cleaning of the data can be done before it is passed to your front end service."
+        image: assets/img/timeline/Pipeline.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - year: "Communication and Reporting"
+        title: 
+        desc: "I have professional experience writing journal articles, scientific literature, test reports, and preparing presentations. Throughout our working relationship, I will document the work that I am performing and deliver at the end of the contract as requested. Additionally, I am happy to give presentations or training to staff or team members. "
+        image: assets/img/timeline/Reporting2.jpg 
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Contact <br> Me <br> Below!"
 
   about:
     title: "About Us"

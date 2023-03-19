@@ -21,9 +21,6 @@ en: &DEFAULT_EN
     text: "Above and Beyond Analytics"
     section: services
     list:
-      - title: "Client Dashboard"
-        desc: "Our project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
-        icon: fas fa-calendar-check #find more at https://fontawesome.com/icons
       - title: "Private Git Repository"
         desc: "The codebase will be hosted in a publicly or privately accessible repository, which is a widely recognized online file storage system for developers."
         icon: fab fa-git-alt
@@ -31,26 +28,24 @@ en: &DEFAULT_EN
         desc: "On-demand support and training resources can be provided to enable you and your team to comprehensively review and/or expand upon the outcomes."
         icon: fas fa-question
       - title: "Polished Deliverables"
-        desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government and military agencies, research institutions, and Fortune 500 corporations."
-        icon: fas fa-chart-bar 
+        desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government, military, research institutions, and F500 corporations."
+        icon: fas fa-folder-open
 
   core_services:
-    title: "Additional Services"
-    text: "Above and Beyond Analytics"
+    title: "Core Services"
+    text: ""
     section: core_services
     list:
+      - title: "Data Analysis and Insights"
+        desc: "Derive valuable insights from complex data sets using advanced statistical analysis and machine learning inform strategic decision-making."
+        icon: fas fa-chart-bar 
       - title: "Client Dashboard"
-        desc: "Our project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
+        desc: "Easy to use project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
         icon: fas fa-calendar-check #find more at https://fontawesome.com/icons
-      - title: "Private Git Repository"
-        desc: "The codebase will be hosted in a publicly or privately accessible repository, which is a widely recognized online file storage system for developers."
-        icon: fab fa-git-alt
-      - title: "Ongoing Support"
-        desc: "On-demand support and training resources can be provided to enable you and your team to comprehensively review and/or expand upon the outcomes."
-        icon: fas fa-question
-      # - title: "Polished Deliverables"
-      #   desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government and military agencies, research institutions, and Fortune 500 corporations."
-      #   icon: fas fa-chart-bar 
+      - title: "Clear Communication"
+        desc: "Collaborate closely throughout the project lifecycle to ensure clear communication, alignment, and buy-in towards a shared goal."
+        icon: fas fa-phone
+
   
   portfolio:
     title: "Portfolio"

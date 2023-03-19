@@ -17,20 +17,23 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Additional Services"
+    text: "Above and Beyond Analytics"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+      - title: "Client Dashboard"
+        desc: "Our project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
+        icon: fas fa-calendar-check #find more at https://fontawesome.com/icons
+      - title: "Private Git Repository"
+        desc: "The codebase will be hosted in a publicly or privately accessible repository, which is a widely recognized online file storage system for developers."
+        icon: fab fa-git-alt
+      - title: "Ongoing Support"
+        desc: "On-demand support and training resources can be provided to enable you and your team to comprehensively review and/or expand upon the outcomes."
+        icon: fas fa-question
+      - title: "Polished Deliverables"
+        desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government and military agencies, research institutions, and Fortune 500 corporations."
+        icon: fas fa-chart-bar 
+  
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."

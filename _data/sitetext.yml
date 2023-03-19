@@ -33,6 +33,24 @@ en: &DEFAULT_EN
       - title: "Polished Deliverables"
         desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government and military agencies, research institutions, and Fortune 500 corporations."
         icon: fas fa-chart-bar 
+
+  core_services:
+    title: "Additional Services"
+    text: "Above and Beyond Analytics"
+    section: core_services
+    list:
+      - title: "Client Dashboard"
+        desc: "Our project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
+        icon: fas fa-calendar-check #find more at https://fontawesome.com/icons
+      - title: "Private Git Repository"
+        desc: "The codebase will be hosted in a publicly or privately accessible repository, which is a widely recognized online file storage system for developers."
+        icon: fab fa-git-alt
+      - title: "Ongoing Support"
+        desc: "On-demand support and training resources can be provided to enable you and your team to comprehensively review and/or expand upon the outcomes."
+        icon: fas fa-question
+      # - title: "Polished Deliverables"
+      #   desc: "I have a proven track record of generating and presenting deliverables to a diverse range of clientele, including government and military agencies, research institutions, and Fortune 500 corporations."
+      #   icon: fas fa-chart-bar 
   
   portfolio:
     title: "Portfolio"

@@ -148,7 +148,7 @@ en: &DEFAULT_EN
       #       icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Me Today PRIMARY EDITS FORMSPREE"
+    title: "Contact Me Today"
     text: "Will Respond Within 24-48 Hours"
     section: contact
     name: "Name*"

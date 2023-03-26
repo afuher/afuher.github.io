@@ -41,7 +41,7 @@ en: &DEFAULT_EN
       - title: "Data Analysis and Insights"
         desc: "Derive valuable insights from complex data sets using advanced statistical analysis and machine learning inform strategic decision-making."
         icon: fas fa-chart-bar 
-      - title: "Client Dashboard"
+      - title: "[Client Dashboard](https://notch-meter-77f.notion.site/Client-Project-Dashboard-Example-8d76ee7e7cdf4a95a6c3463585ee2891)"
         desc: "Easy to use project management system utilizes online tracking of tasks and statuses, with regular updates as milestones are reached."
         icon: fas fa-calendar-check #find more at https://fontawesome.com/icons
       - title: "Clear Communication"

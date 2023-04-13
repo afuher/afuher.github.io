@@ -12,9 +12,18 @@
 en: &DEFAULT_EN
   header:
     title: ""
-    text: "Leverage the power of data science to elevate your business performance and outpace your competitors.
-          Partner with a skilled freelancer committed to delivering results-driven solutions for your unique needs.  <br><br>
+    text: "Do you have a challenging or technically complex data science problem? I can help you solve it.
+
+          <br><br>
+    
+          Throughout my career, I have specialized in developing data driven solutions to complex problem by combining skills in research and development with domain specific expertise.
+          
+          I am an expert at solving challenging data problems and delivering results that are both technically sound and easy to understand. 
+        
+          <br><br>
+        
           Connect with me today to experience the difference expert data science can make."
+
     button: Contact Me Now
     buttonlink: "#contact"
 
@@ -113,9 +122,16 @@ en: &DEFAULT_EN
   team:
     title: "About Me"
     text: ""
-    subtext: As a seasoned data scientist located in Seattle, Washington, I am thrilled to share my expertise and capabilities with you. With 8 years of experience in engineering and data, complemented by an M.S. in Analytics from the Georgia Institute of Technology, I have amassed a wealth of knowledge and skills to address complex data-driven challenges.
-             Freelancing provides an ideal opportunity for me to expand my knowledge base, foster lasting connections, and utilize my skill set to help clients achieve their goals.
-             Whether your organization faces a small or large data challenge, I am eager to discuss how I can help you reach a successful outcome.
+    subtext: As a seasoned data scientist and researcher based in Seattle, Washington, I am excited to share my unique expertise and capabilities with you. 
+             With 8 years of experience in engineering, research, and data, complemented by an M.S. in Analytics from the Georgia Institute of Technology, 
+             I have honed my skills in tackling complex and specialized problems. My passion lies in leveraging my background in research and development 
+             to bound difficult issues and create innovative solutions rooted in first principles. 
+             
+             <br><br>
+
+             Freelancing allows me to expand my knowledge base, build 
+             lasting connections, and apply my skill set to help clients overcome their most challenging problems. My favorite disciplines in data science 
+             are machine learning and computer vision, and I love developing code that automates challenging data problems and runs efficiently.
     section: team
     people:
       # - name: "Kay Garland"

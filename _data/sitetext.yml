@@ -11,8 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ""
-    text: "Do you have a challenging or technically complex data science problem? 
+    title: "Do you have a challenging or technically complex data science problem? 
 
           <br><br>
     
@@ -27,6 +26,7 @@ en: &DEFAULT_EN
           <br><br>
         
           Connect with me today to experience the difference expert data science can make."
+    text: ""
 
     button: Contact Me Now
     buttonlink: "#contact"
